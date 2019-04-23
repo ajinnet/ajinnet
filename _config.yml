@@ -27,6 +27,7 @@ copyright:
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
 permalink: /:title/
 paginate: 6
 paginate_path: /page:num/
