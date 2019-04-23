@@ -59,4 +59,3 @@ sass:
 plugins: [jekyll-paginate, jekyll-seo-tag]
 
 
-theme: jekyll-theme-slate
